@@ -1,0 +1,25 @@
+.imgBox{
+    display: flex;
+    justify-content: center;
+}
+
+.heroImg{
+    padding-top: 26px;
+    height: 232px;
+    width: 395.91px;
+}
+
+.heroText{
+    justify-self: start;
+    width: 347px;
+    padding-top: 32px;
+    padding-left: 36px;
+}
+
+.heroText > h1 {
+    font-size: 36px;
+}
+
+.heroText > p {
+    font-size: 16px;
+}

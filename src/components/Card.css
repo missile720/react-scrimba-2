@@ -1,0 +1,41 @@
+.card{
+    width: 176px;
+    height: 302px;
+    position: relative;
+}
+
+.cardImg{
+    width: 176px;
+    height: 235px;
+    border-radius: 9px;
+}
+
+.cardText{
+    font-size: 12px;
+}
+
+.textCenter{
+    display: flex;
+    align-items: center;
+}
+
+.star{
+    width: 14px;
+    height: 14px;
+    padding-right: 2px;
+}
+
+.textLight{
+    color: #918E9B;
+}
+
+.card--badge {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 12px;
+}
